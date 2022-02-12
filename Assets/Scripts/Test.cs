@@ -8,6 +8,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         int test = 1;
+        int fromMain = 2;
     }
 
     // Update is called once per frame
